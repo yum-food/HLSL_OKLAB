@@ -15,7 +15,7 @@ OKLAB [should be supported in Unity
 2022](https://twitter.com/bjornornorn/status/1512428218892095496?lang=en), but
 for us stuck on older versions, a library like this is necessary.
 
-This is exploratory code and is *not* optimized. If using in a performance
+This code is *not* optimized. If using in a performance
 critical setting, you should premultiply all matrices in your desired
 transformation.
 
